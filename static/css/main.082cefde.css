@@ -1,0 +1,2 @@
+*{box-sizing:border-box;font-family:sans-serif;margin:0;padding:0}input{display:none}.container{text-align:left;width:100%}.photo-galary{grid-gap:50px;display:grid;grid-template-columns:repeat(4,1fr);margin:auto;width:90%}.pic{box-shadow:3px 3px 5px #d3d3d3;cursor:pointer;height:230px;position:relative}.pic,.pic img{border-radius:10px}.pic img{height:100%;width:100%}.bg{background-image:url(https://www.irmsecurity.com/app/uploads/2020/05/Unacademy-Logo-1.png)}
+/*# sourceMappingURL=main.082cefde.css.map*/

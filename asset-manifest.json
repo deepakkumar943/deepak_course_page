@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deepak_course_page/static/css/main.082cefde.css",
+    "main.js": "/deepak_course_page/static/js/main.faabfd13.js",
+    "index.html": "/deepak_course_page/index.html",
+    "main.082cefde.css.map": "/deepak_course_page/static/css/main.082cefde.css.map",
+    "main.faabfd13.js.map": "/deepak_course_page/static/js/main.faabfd13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082cefde.css",
+    "static/js/main.faabfd13.js"
+  ]
+}
